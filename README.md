@@ -41,13 +41,13 @@
 
 ---
 
-![Untitled](mumuk 20c02e382ace3c4524b440864295186258/Untitled.png)
+![Untitled](mumuk%20c02e382ace3c4524b440864295186258/Untitled.png)
 
 ### 5. ERD
 
 ---
 
-![Untitled](mumuk 20c02e382ace3c4524b440864295186258/Untitled%201.png)
+![Untitled](mumuk%20c02e382ace3c4524b440864295186258/Untitled%201.png)
 
 ### 6. 핵심 기능
 
