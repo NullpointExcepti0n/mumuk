@@ -47,7 +47,7 @@
 
 ---
 
-![Untitled](mumuk%20c02e382ace3c4524b440864295186258/Untitled%201.png)
+![ERD](https://user-images.githubusercontent.com/101856118/177474312-a3e60f2e-3a56-4ea2-9d16-a0632b5e4bcd.jpg)
 
 ### 6. 핵심 기능
 
