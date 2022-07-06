@@ -24,7 +24,7 @@
 
 ---
 
-- 'back-end'
+- `back-end`
     - Java 11
     - JSP&Servlet
     - MyBatis
