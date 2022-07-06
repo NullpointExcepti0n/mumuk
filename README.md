@@ -28,12 +28,12 @@
     - Java 11
     - JSP&Servlet
     - MyBatis
-- front-end
+- `front-end`
     - HTML5
     - CSS3
     - JavaScript
     - jQuery
-- server
+- `server`
     - Apache Tomcat v9.0
     
 
