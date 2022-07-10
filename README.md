@@ -64,6 +64,7 @@
 ---
 
 - 자체적으로 나눈 카테고리를 통해 식당을 추천한다
+- https://github.com/NullpointExcepti0n/mumuk/blob/7a2bebb193fbc56208b38ebd04bbf26a977745ce/src/main/webapp/view/member/category.jsp#L14
 
 ### 6.2 게임성을 지닌 식당 추천 기능
 
